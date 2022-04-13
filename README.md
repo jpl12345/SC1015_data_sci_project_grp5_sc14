@@ -1,4 +1,4 @@
-# SC1015 Data Science Project Grp5 SC14
+# SC1015 SC14 Group 5 Data Science Project
 
 ## Table of Contents
   * [About](#about)
@@ -16,10 +16,10 @@
 
 ## About 
 
-Welcome to SC14 Group 5's repository! This repository contains the codebase and dataset of the Mini-Project completed for the module INTRO TO DATA SCI & ART INTELL (SC1015).
+Welcome to SC14 Group 5's repository! This repository contains the codebase and dataset of the Mini-Project completed in fufilment of the module INTRO TO DATA SCI & ART INTELL (SC1015).
 
-Please view the Jupyter Notebooks in the following order:
-1. 
+Please download the [dataset](../main/nasa.csv) nasa.csv and view the notebooks in the following order:
+1. to add
 
 ---
 ## Contributors
