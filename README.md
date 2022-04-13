@@ -18,8 +18,11 @@
 
 Welcome to SC14 Group 5's repository! This repository contains the codebase and dataset of the Mini-Project completed in fufilment of the module INTRO TO DATA SCI & ART INTELL (SC1015).
 
-Please download the [dataset](../main/nasa.csv) nasa.csv and view the notebooks in the following order:
-1. to add
+Please download the [dataset nasa.csv](../main/nasa.csv) and view the notebooks in the following order:
+1. EDA & Data Cleaning
+2. Linear Regression
+3. Logistic Regression
+4. XGBoost
 
 ---
 ## Contributors
