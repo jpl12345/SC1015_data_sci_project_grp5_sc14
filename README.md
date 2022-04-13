@@ -59,4 +59,4 @@ We were also able to predict the Maximum Estimated Diameter of an Asteroid using
 
 ## References
 
-[https://stats.stackexchange.com/questions/255105/why-is-the-validation-accuracy-fluctuating]
+https://stats.stackexchange.com/questions/255105/why-is-the-validation-accuracy-fluctuating
