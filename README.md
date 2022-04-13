@@ -11,18 +11,20 @@ Please view the Jupyter Notebooks in the following order:
 
 ## Contributors
 
-- @jamiiiem Exploratory Data Analysis and Data Cleaning
-- @kenho01 Logistic Regression
-- @jpl12345 XGBoost
+- @jamiiiem (Jiayun) Exploratory Data Analysis and Data Cleaning
+- @kenho01 (Ken) Logistic Regression
+- @jpl12345 (John) Linear Regression and XGBoost
 
 ## Problem Definition
 
+- Can we predict the diameters of asteroids?
 - Can we predict if an asteroid poses a threat?
 
 ## Models Used
 
-1. Logistic Regression
-2. XGBoost
+1. Linear Regression - diameter prediction
+2. Logistic Regression - to classify if an asteroid is a hazard
+3. XGBoost - to classify if an asteroid is a hazard
 
 ## Outcomes
 
