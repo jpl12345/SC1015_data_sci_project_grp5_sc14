@@ -27,6 +27,23 @@ Please view the Jupyter Notebooks in the following order:
 3. XGBoost - to classify if an asteroid is a hazard
 
 ## Outcomes
+We have learned how to use new models, which include:
+-	Logistic Regression
+-	XGBoost
+
+We have also learned new methods, such as:
+-	Scaling
+-	Skewness Correction
+-	Class Balancing
+-	Cross Validation
+
+We have also used a new evaluation metric:
+-	ROC-AUC
+
+We have learnt that:
+1.	Skewness correction does not always improve the performance of the model, but it can sometimes.
+2.	How to select features to simplify models.
+3.	The importance of data cleaning. We have dropped more than half of the original features as they were redundant. 
 
 ## Insights
 
