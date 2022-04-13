@@ -1,5 +1,17 @@
 # SC1015 Data Science Project Grp5 SC14
 
+- [SC1015 Data Science Project Grp5 SC14](#sc1015-data-science-project-grp5-sc14)
+  * [About](#about)
+  * [Contributors](#contributors)
+  * [Problem Definition](#problem-definition)
+  * [Models Used](#models-used)
+  * [Outcome](#outcome)
+  * [New methods and experience learnt](#new-methods-and-experience-learnt)
+  * [Insights](#insights)
+  * [References](#references)
+
+
+
 ---
 
 ## About 
