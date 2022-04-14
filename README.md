@@ -18,11 +18,14 @@
 
 Welcome to SC14 Group 5's repository! This repository contains the codebase and dataset of the Mini-Project completed in fufilment of the module INTRO TO DATA SCI & ART INTELL (SC1015).
 
+This project explores a dataset from NASA's NeoWs (Near Earth Object Web Service) on asteroids. 
+
 Please download the [dataset nasa.csv](../main/nasa.csv) and view the notebooks in the following order:
-1. EDA & Data Cleaning
-2. Linear Regression
-3. Logistic Regression
-4. XGBoost
+1. [EDA & Data Cleaning](../main/sc14_team5_EDA_final.ipynb)
+2. [Linear Regression](../main/sc14_team5_linreg_final.ipynb)
+3. [Logistic Regression](../main/sc14_team5_logreg_final.ipynb)
+4. [XGBoost](../main/sc14_team5_xgboost_final.ipynb)
+
 
 ---
 ## Contributors
