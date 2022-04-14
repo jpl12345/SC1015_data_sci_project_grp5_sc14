@@ -88,12 +88,12 @@ We were also able to predict the Maximum Estimated Diameter of an Asteroid using
 
 ---
 ## References
-https://www.kaggle.com/shrutimehta/nasa-asteroids-classification
-https://www.kaggle.com/ke2207/classification-example-using-log-reg-svm-rfc/notebook
-https://www.kaggle.com/ke2207/classification-example-using-log-reg-svm-rfc/notebook
-https://medium.com/analytics-vidhya/asteroid-diameter-prediction-using-machine-learning-3e81eb14dd7a
-https://analyticsindiamag.com/7-types-classification-algorithms/
-https://www.kaggle.com/jav1d98/getting-99-68-accuracy-with-xgbclassifier-model
-https://www.ibm.com/support/pages/transforming-variable-normality-parametric-statistics
-https://datascience.stackexchange.com/questions/54908/data-normalization-before-or-after-train-test-split
-https://stats.stackexchange.com/questions/255105/why-is-the-validation-accuracy-fluctuating
+- https://www.kaggle.com/shrutimehta/nasa-asteroids-classification
+- https://www.kaggle.com/ke2207/classification-example-using-log-reg-svm-rfc/notebook
+- https://www.kaggle.com/ke2207/classification-example-using-log-reg-svm-rfc/notebook
+- https://medium.com/analytics-vidhya/asteroid-diameter-prediction-using-machine-learning-3e81eb14dd7a
+- https://analyticsindiamag.com/7-types-classification-algorithms/
+- https://www.kaggle.com/jav1d98/getting-99-68-accuracy-with-xgbclassifier-model
+- https://www.ibm.com/support/pages/transforming-variable-normality-parametric-statistics
+- https://datascience.stackexchange.com/questions/54908/data-normalization-before-or-after-train-test-split
+- https://stats.stackexchange.com/questions/255105/why-is-the-validation-accuracy-fluctuating
