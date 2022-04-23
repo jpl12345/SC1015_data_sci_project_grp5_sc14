@@ -33,6 +33,7 @@ Please download the [dataset nasa.csv](../main/nasa.csv) and view the notebooks 
 - @jamiiiem (Jiayun) Exploratory Data Analysis and Data Cleaning
 - @kenho01 (Ken) Logistic Regression
 - @jpl12345 (John) Linear Regression and XGBoost
+<p><em>All members contributed to the narration and presentation of the video.</em>
 
 ---
 ## Problem Definition
